@@ -4,7 +4,7 @@
 
 # Site
 title: SK的小黑屋
-subtitle: '记录我的学习经验'
+subtitle: '分享我的学习经验'
 description: '乱七八糟什么都写'
 keywords:
 author: SK-415
@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://example.com/child' and root as '/child/'
-url: https://sk415.com
+url: https://sk415.icu
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
